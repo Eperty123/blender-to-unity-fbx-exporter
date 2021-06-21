@@ -55,6 +55,7 @@ Requires Blender to be installed in the system, so:
 
 #### Tested and working:
 
+- Compatible with Blender 2.9.x.
 - Mixed EMPTY and MESH hierarchies with depth > 3.
 - Local rotations are preserved.
 - Non-uniform scaling.
